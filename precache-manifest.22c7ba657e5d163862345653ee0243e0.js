@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0aa32ef93c66c3edbecfaedee5c64bb",
+    "revision": "b222e4f5afb02279f31c245cc28a3b1b",
     "url": "/ProGames/index.html"
   },
   {
-    "revision": "c2cf2010126e69875b2d",
+    "revision": "af1bf811fd0860a8880c",
     "url": "/ProGames/static/css/main.bc7e8188.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ProGames/static/js/3.07edf8b6.chunk.js"
   },
   {
-    "revision": "c2cf2010126e69875b2d",
-    "url": "/ProGames/static/js/main.4182dd07.chunk.js"
+    "revision": "af1bf811fd0860a8880c",
+    "url": "/ProGames/static/js/main.a2165146.chunk.js"
   },
   {
     "revision": "039c4171fe74d00bf784",
