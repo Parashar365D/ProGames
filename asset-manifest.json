@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ProGames/static/css/main.bc7e8188.chunk.css",
+    "main.js": "/ProGames/static/js/main.88b42239.chunk.js",
+    "main.js.map": "/ProGames/static/js/main.88b42239.chunk.js.map",
+    "runtime-main.js": "/ProGames/static/js/runtime-main.d23f449c.js",
+    "runtime-main.js.map": "/ProGames/static/js/runtime-main.d23f449c.js.map",
+    "static/js/2.9743c2ed.chunk.js": "/ProGames/static/js/2.9743c2ed.chunk.js",
+    "static/js/2.9743c2ed.chunk.js.map": "/ProGames/static/js/2.9743c2ed.chunk.js.map",
+    "static/js/3.07edf8b6.chunk.js": "/ProGames/static/js/3.07edf8b6.chunk.js",
+    "static/js/3.07edf8b6.chunk.js.map": "/ProGames/static/js/3.07edf8b6.chunk.js.map",
+    "index.html": "/ProGames/index.html",
+    "precache-manifest.6436c46c942e9f9130d55c32bd742f46.js": "/ProGames/precache-manifest.6436c46c942e9f9130d55c32bd742f46.js",
+    "service-worker.js": "/ProGames/service-worker.js",
+    "static/css/main.bc7e8188.chunk.css.map": "/ProGames/static/css/main.bc7e8188.chunk.css.map",
+    "static/js/2.9743c2ed.chunk.js.LICENSE.txt": "/ProGames/static/js/2.9743c2ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d23f449c.js",
+    "static/js/2.9743c2ed.chunk.js",
+    "static/css/main.bc7e8188.chunk.css",
+    "static/js/main.88b42239.chunk.js"
+  ]
+}
